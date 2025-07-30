@@ -9,6 +9,7 @@ export default function LoginPage() {
             3. remember me
             4. forgot-password link
             5. login button
+            edit
         </div>
     )
 }
